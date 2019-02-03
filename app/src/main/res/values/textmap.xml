@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="escude">
+        <item>"スズキ"</item>
+        <item>"普通車"</item>
+        <item>"4WD"</item>
+    </string-array>
+    <string-array name="wagonr">
+        <item>"スズキ"</item>
+        <item>"軽自動車"</item>
+        <item>"FF"</item>
+    </string-array>
+    <string-array name="succeed">
+        <item>"トヨタ"</item>
+        <item>"普通車"</item>
+        <item>"FF"</item>
+    </string-array>
+</resources>
