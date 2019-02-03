@@ -58,8 +58,6 @@ public class MainActivity extends AppCompatActivity {
 
         ListView listView;
         listView = (ListView)findViewById(R.id.listView);
-
-
         MyAdapter myAdapter = new MyAdapter(getApplication(),R.layout.layout_list_view,list);
         listView.setAdapter(myAdapter);
 //        SimpleAdapter simpleAdapter = new SimpleAdapter(this,list,android.R.layout.simple_list_item_2,new String[]{"syamei","maker"},new int[]{android.R.id.text1,android.R.id.text2});
